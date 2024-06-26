@@ -1,0 +1,31 @@
+{
+  "name": "mbiafun-cooperative",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@sanity/image-url": "^1.0.2",
+    "@sanity/vision": "^3.45.0",
+    "embla-carousel-react": "^8.1.5",
+    "framer-motion": "^11.2.10",
+    "next": "14.2.3",
+    "next-sanity": "^9.3.10",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-icons": "^5.2.1",
+    "sanity": "^3.45.0",
+    "styled-components": "^6.1.11",
+    "zustand": "^4.5.2"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.2.3",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
+  }
+}
