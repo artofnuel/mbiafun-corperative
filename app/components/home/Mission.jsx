@@ -27,7 +27,7 @@ const Mission = () => {
             <li>Mission 4</li>
           </ul>
         </div>
-        <div className="w-full h-full grid grid-cols-1 md:grid-cols-2 gap-5 justify-center items-center py-10">
+        <div className="w-full h-full grid grid-cols-2 gap-5 justify-center items-center py-10">
           <div className="col-span-full w-full h-[300px]">
             <Image
               src={images.bkg3}
